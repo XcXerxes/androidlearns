@@ -1,1 +1,1 @@
-include ':app'
+include ':app', ':relativelayout', ':framelayout', ':absolutelayout', ':tablelayout', ':calclayout'

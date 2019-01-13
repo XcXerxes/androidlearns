@@ -8,7 +8,12 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/absolutelayout" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/calclayout" />
+            <option value="$PROJECT_DIR$/framelayout" />
+            <option value="$PROJECT_DIR$/relativelayout" />
+            <option value="$PROJECT_DIR$/tablelayout" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
